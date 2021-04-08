@@ -1,10 +1,11 @@
-section:nth-child(-n+9){
+/* premieres instructions*/
+section:not(#les_transition_10){
     border-bottom: solid black 1px;
 }
 section{
     padding-bottom: 50px;
 }
-
+/************************/
 /* début exo 01 les_hover_01 */
 .bg-color{
     background-color: lightblue;
